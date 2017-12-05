@@ -1,6 +1,17 @@
 # ud036_StarterCode
-To run the movies trailer website clone the repo and then run the python file entertainment_center.py..
 
-This webpage will contain the list of movies along with the poster image and when clicked on a any particular poster image,
-the trailer of that movie will be played.
+How To Run The Application
+
+ Clone the repo and then
+
+    Using the Terminal:
+
+        -- Type "python entertainment_center.py"
+
+    Using the Python IDLE:
+
+        -- Select Run from the IDLE menu,
+        -- Click Run Module from the dropdown list
+
+This webpage will contain the list of movies along with the poster image and when clicked on a any particular poster image, the trailer of that movie will be played.
 
